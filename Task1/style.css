@@ -1,0 +1,6 @@
+body{
+    background: wheat;
+}
+button:hover{
+    background: gray;
+}
